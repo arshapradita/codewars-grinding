@@ -14,4 +14,6 @@ Note: the input will always be valid.
 
 For example:
 
+```bash
 5, 10, 2 --> 17
+```
