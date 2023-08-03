@@ -2,7 +2,9 @@
 
 To find the volume (centimeters cubed) of a cuboid you use the formula:
 
-volume = Length _ Width _ Height
+```bash
+volume = Length * Width * Height
+```
 
 But someone forgot to use proper record keeping, so we only have the volume, and the length of a single side!
 
